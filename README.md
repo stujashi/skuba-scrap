@@ -1,2 +1,2 @@
-# skuba-siup
-siup skuba
+# skuba-scrap
+skuskub
